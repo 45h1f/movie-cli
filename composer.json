@@ -17,7 +17,6 @@
 	],
 	"require": {
 		"php": "^7.3|^8.0",
-		"kitetail/zttp": "^0.6.0",
 		"nunomaduro/laravel-console-menu": "^3.2"
 	},
 	"require-dev": {
